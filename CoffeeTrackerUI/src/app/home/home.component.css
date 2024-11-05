@@ -1,0 +1,31 @@
+
+div.table-container {
+  color: black;
+  margin-top: 20px;
+}
+
+div.insert-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+td.button-column {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 25px;
+}
+
+.button-update {
+  margin-right: 3px;
+}
+
+.btn-search {
+  margin-right: 10px;
+}
+
+.input-date {
+  margin-right: 6px;
+  margin-top: auto;
+}
