@@ -8,7 +8,11 @@ A C# Web API backend, which provides data services.
 
 An Angular frontend, which allows users to interact with and visualize their data.
 
+
 Features
+
+
+
 Record Tracking: Add, view, and filter your coffee (or other habit) consumption data. 
 
 Date Filtering: Select specific dates to view records within a defined range. 
