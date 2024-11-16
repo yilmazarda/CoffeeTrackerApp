@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OnvyatiWFnI=",
+  "dgSpecHash": "XXeW7bWoo28=",
   "success": true,
-  "projectFilePath": "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/CoffeeAPI.csproj",
+  "projectFilePath": "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/CoffeeAPI.csproj",
   "expectedPackageFiles": [
     "/Users/ardayilmaz/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/ardayilmaz/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/CoffeeAPI.csproj": {}
+    "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/CoffeeAPI.csproj": {}
   },
   "projects": {
-    "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/CoffeeAPI.csproj": {
+    "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/CoffeeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/CoffeeAPI.csproj",
+        "projectUniqueName": "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/CoffeeAPI.csproj",
         "projectName": "CoffeeAPI",
-        "projectPath": "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/CoffeeAPI.csproj",
+        "projectPath": "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/CoffeeAPI.csproj",
         "packagesPath": "/Users/ardayilmaz/.nuget/packages/",
-        "outputPath": "/Users/ardayilmaz/Documents/Angular/CoffeeTracker/api/CoffeeAPI/obj/",
+        "outputPath": "/Users/ardayilmaz/Documents/Angular/CoffeeTrackerApp/CoffeeTrackerAPI/CoffeeAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ardayilmaz/.nuget/NuGet/NuGet.Config"
