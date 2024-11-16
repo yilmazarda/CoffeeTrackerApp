@@ -31,7 +31,7 @@ export class HomeComponent {
     this.http.delete(`http://localhost:5139/api/coffee/${id}`).subscribe({
       next: (response) => {
         console.log('Delete Successful', response);
-        this.getMethod();
+        window.location.reload();
       },
       error: (error) => {
         console.log('Delete Failed', error);
